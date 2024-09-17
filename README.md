@@ -1,3 +1,3 @@
 # rails7-bootstrap-Example
 
-(Screenshot.png)
+![Screenshot](Screenshot.png)
